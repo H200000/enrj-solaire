@@ -1,0 +1,14 @@
+DEPOSEZ VOS PHOTOS D'EQUIPE ICI
+=================================
+
+Format attendu pour les fichiers :
+  prenom-nom.jpg (ou .png, .webp)
+
+Exemples :
+  louis-hunsinger.jpg
+  sophie-martin.png
+  thomas-dupont.webp
+
+Le nom du fichier sera utilisé pour identifier chaque personne.
+Déposez toutes les photos ici puis dites-moi quand c'est fait.
+Je vous demanderai ensuite le poste de chaque personne.

@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Host
+Host: https://enr-j.com
+
+# Sitemaps
+Sitemap: https://enr-j.com/sitemap.xml
