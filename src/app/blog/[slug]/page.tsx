@@ -5,8 +5,9 @@ import { notFound } from "next/navigation";
 import { Clock, ArrowLeft, User } from "lucide-react";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
 import CTABannerSection from "@/components/sections/CTABannerSection";
+import RelatedArticles from "@/components/blog/RelatedArticles";
 import JsonLd from "@/components/seo/JsonLd";
-import { getArticleSchema } from "@/components/seo/schemas";
+import { getArticleSchema, getBreadcrumbSchema } from "@/components/seo/schemas";
 import { articles } from "@/data/blog/articles";
 
 interface PageProps {
@@ -57,6 +58,12 @@ export default async function BlogArticlePage({ params }: PageProps) {
           author: article.author,
         })}
       />
+      <JsonLd
+        data={getBreadcrumbSchema([
+          { name: "Blog", url: "/blog" },
+          { name: article.title, url: `/blog/${slug}` },
+        ])}
+      />
       <Breadcrumbs
         items={[
           { label: "Blog", href: "/blog" },
@@ -66,7 +73,6 @@ export default async function BlogArticlePage({ params }: PageProps) {
 
       <article className="py-8 md:py-16 px-4">
         <div className="max-w-3xl mx-auto">
-          {/* Back link */}
           <Link
             href="/blog"
             className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors mb-6"
@@ -75,7 +81,6 @@ export default async function BlogArticlePage({ params }: PageProps) {
             Retour au blog
           </Link>
 
-          {/* Hero Image */}
           <div className="relative w-full h-64 md:h-80 rounded-2xl overflow-hidden mb-8">
             <Image
               src={article.image}
@@ -87,7 +92,6 @@ export default async function BlogArticlePage({ params }: PageProps) {
             />
           </div>
 
-          {/* Header */}
           <header className="mb-8">
             <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-sm font-medium rounded-full mb-4">
               {article.category}
@@ -114,7 +118,6 @@ export default async function BlogArticlePage({ params }: PageProps) {
             </div>
           </header>
 
-          {/* Content */}
           <div className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-foreground prose-p:text-muted-foreground prose-a:text-primary prose-strong:text-foreground">
             {article.content.split("\n\n").map((paragraph, i) => {
               if (paragraph.startsWith("## ")) {
@@ -158,6 +161,8 @@ export default async function BlogArticlePage({ params }: PageProps) {
               );
             })}
           </div>
+
+          <RelatedArticles currentSlug={slug} category={article.category} />
         </div>
       </article>
 
