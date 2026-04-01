@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   description:
     "ENR'J : panneaux photovoltaïques pour professionnels en tiers-investissement. Certifié RGE QualiPV, maintenance incluse 30 ans.",
   alternates: {
-    canonical: "https://www.enr-j.com/a-propos",
+    canonical: "https://enr-j.com/a-propos",
   },
   openGraph: {
     title: "À propos d'ENR'J",

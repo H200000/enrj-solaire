@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description:
     "Contactez ENR-J Solaire pour votre projet photovoltaïque. Étude de faisabilité gratuite, réponse sous 48h. Tiers-investissement sans apport.",
   alternates: {
-    canonical: "https://www.enr-j.com/contact",
+    canonical: "https://enr-j.com/contact",
   },
   openGraph: {
     title: "Contactez ENR-J Solaire",

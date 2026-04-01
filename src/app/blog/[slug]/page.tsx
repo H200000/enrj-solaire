@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: article.title,
     description: article.excerpt.slice(0, 155),
     alternates: {
-      canonical: `https://www.enr-j.com/blog/${slug}`,
+      canonical: `https://enr-j.com/blog/${slug}`,
     },
     openGraph: {
       title: article.title,
@@ -52,7 +52,7 @@ export default async function BlogArticlePage({ params }: PageProps) {
         data={getArticleSchema({
           title: article.title,
           description: article.excerpt,
-          url: `https://www.enr-j.com/blog/${slug}`,
+          url: `https://enr-j.com/blog/${slug}`,
           datePublished: article.date,
           author: article.author,
         })}

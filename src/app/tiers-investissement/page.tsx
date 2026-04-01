@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     "Tiers-investissement solaire : un investisseur finance votre installation PV. Loyer de toiture, abonnement solaire ou crédit-bail. Contrat 30 ans.",
   alternates: {
-    canonical: "https://www.enr-j.com/tiers-investissement",
+    canonical: "https://enr-j.com/tiers-investissement",
   },
   openGraph: {
     title: "Tiers-Investissement Solaire | ENR-J Solaire",

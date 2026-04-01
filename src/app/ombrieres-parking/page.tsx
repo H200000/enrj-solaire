@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     "Loi APER : parkings ≥1 500 m² doivent installer des ombrières PV. Échéance 2026/2028. Amende jusqu'à 40 000 €/an. Solution sans apport.",
   alternates: {
-    canonical: "https://www.enr-j.com/ombrieres-parking",
+    canonical: "https://enr-j.com/ombrieres-parking",
   },
   openGraph: {
     title: "Ombrières Parking : Conformité Loi APER | ENR-J Solaire",

@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   description:
     "Découvrez l'équipe ENR'J : des chargés de projet énergétique et experts dédiés qui vous accompagnent de l'étude de faisabilité au raccordement de votre installation solaire.",
   alternates: {
-    canonical: "https://www.enr-j.com/equipe",
+    canonical: "https://enr-j.com/equipe",
   },
   openGraph: {
     title: "L'équipe ENR'J Solaire",

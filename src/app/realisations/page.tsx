@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "Nos installations solaires en tiers-investissement : hangars agricoles, toitures industrielles et ombrières de parking en France.",
   alternates: {
-    canonical: "https://www.enr-j.com/realisations",
+    canonical: "https://enr-j.com/realisations",
   },
   openGraph: {
     title: "Réalisations ENR-J Solaire",

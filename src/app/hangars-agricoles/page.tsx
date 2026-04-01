@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     "Photovoltaïque sur hangar agricole sans investissement. Loyer de toiture ou autoconsommation. Conforme agrivoltaïsme. Dès 500 m².",
   alternates: {
-    canonical: "https://www.enr-j.com/hangars-agricoles",
+    canonical: "https://enr-j.com/hangars-agricoles",
   },
   openGraph: {
     title: "Hangar Agricole Solaire : 0€ d'investissement | ENR-J Solaire",

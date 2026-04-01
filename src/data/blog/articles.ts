@@ -686,7 +686,7 @@ Dès la mise en service de votre installation photovoltaïque, vous commencez à
 
 Le **leasing photovoltaïque professionnel** présente des avantages fiscaux non négligeables. Les loyers de leasing sont considérés comme des charges d'exploitation et sont donc déductibles de votre résultat imposable. Cela réduit votre base imposable et, par conséquent, le montant de l'impôt sur les sociétés que vous devez acquitter. De plus, la TVA sur les loyers est récupérable. D'un point de vue comptable, l'installation n'apparaît pas comme un actif, ce qui simplifie la gestion et maintient un bilan plus léger.
 
-**Vous souhaitez évaluer le potentiel solaire de votre bâtiment ? [Demandez votre audit gratuit](https://www.enr-j.com/contact) auprès de nos experts ENR-J Solaire.**
+**Vous souhaitez évaluer le potentiel solaire de votre bâtiment ? [Demandez votre audit gratuit](https://enr-j.com/contact) auprès de nos experts ENR-J Solaire.**
 
 ## Qui peut bénéficier du Leasing Solaire Pro ? Un Financement Adapté à Tous les Professionnels
 
@@ -732,7 +732,7 @@ Un avantage majeur du **leasing photovoltaïque professionnel** est que les cont
 *   **Renouvellement du contrat :** Vous pouvez choisir de prolonger le contrat de leasing, souvent à des conditions plus avantageuses, notamment si la technologie a évolué et que vous souhaitez une mise à niveau.
 *   **Restitution de l'installation :** Si vous ne souhaitez plus utiliser l'installation, vous pouvez la restituer au bailleur.
 
-**Un expert ENR-J Solaire peut vous accompagner dans votre projet. [Contactez-nous](https://www.enr-j.com/contact) pour une étude personnalisée gratuite.**
+**Un expert ENR-J Solaire peut vous accompagner dans votre projet. [Contactez-nous](https://enr-j.com/contact) pour une étude personnalisée gratuite.**
 
 ## Données Chiffrées et Perspectives 2026 : Le Solaire, un Investissement Gagnant
 
@@ -802,7 +802,7 @@ Le **leasing photovoltaïque professionnel** représente une opportunité unique
 
 ENR-J Solaire est votre partenaire de confiance pour concrétiser votre projet solaire. Forts de notre expertise dans le secteur de l'énergie solaire en France, nous accompagnons les professionnels de tous horizons, de l'audit initial à la mise en service et au-delà. Nous vous offrons un accompagnement de A à Z, des études de faisabilité techniques et économiques précises, jusqu'à la gestion des démarches administratives et la sélection des meilleures solutions de **leasing photovoltaïque professionnel** adaptées à vos besoins. Notre objectif est de vous apporter une solution clé en main, performante et rentable.
 
-**[Demandez votre audit solaire gratuit →](https://www.enr-j.com/contact)**`,
+**[Demandez votre audit solaire gratuit →](https://enr-j.com/contact)**`,
     date: "2026-02-12",
     author: "ENR-J Solaire",
     category: "Finance",
@@ -832,7 +832,7 @@ Les bénéfices pour les professionnels et agriculteurs sont multiples :
 
 L'idée qu'un projet solaire implique nécessairement un investissement lourd est désormais obsolète. Grâce à des solutions de financement innovantes, il est aujourd'hui possible d'opter pour l'**autoconsommation solaire professionnel sans apport**, ou avec un apport minimal, rendant cette technologie accessible à un plus grand nombre d'entreprises et d'exploitations agricoles. Ces modèles permettent de bénéficier des avantages du solaire dès le premier jour, sans impacter la trésorerie ni alourdir le bilan. Ils transforment l'investissement en une dépense maîtrisée, souvent inférieure aux économies générées.
 
-**Vous souhaitez évaluer le potentiel solaire de votre bâtiment ? [Demandez votre audit gratuit](https://www.enr-j.com/contact) auprès de nos experts ENR-J Solaire.**
+**Vous souhaitez évaluer le potentiel solaire de votre bâtiment ? [Demandez votre audit gratuit](https://enr-j.com/contact) auprès de nos experts ENR-J Solaire.**
 
 ### Les Modèles de Financement Innovants pour un Projet Solaire "Zéro Apport"
 
@@ -893,7 +893,7 @@ Un bâtiment équipé de panneaux solaires prend de la valeur. Il devient plus a
 ### Simplicité Opérationnelle et Fiabilité
 Avec les modèles de financement sans apport, la gestion de l'installation est souvent simplifiée. Dans le cas d'un PPA, le tiers investisseur prend en charge l'installation et la maintenance. Pour les autres modèles, les technologies solaires actuelles sont extrêmement fiables, avec des garanties de performance des panneaux allant jusqu'à 25 ans et une durée de vie opérationnelle de 30 ans et plus. La maintenance est minimale et les rendements sont constants sur le long terme.
 
-**Un expert ENR-J Solaire peut vous accompagner dans votre projet. [Contactez-nous](https://www.enr-j.com/contact) pour une étude personnalisée gratuite.**
+**Un expert ENR-J Solaire peut vous accompagner dans votre projet. [Contactez-nous](https://enr-j.com/contact) pour une étude personnalisée gratuite.**
 
 ## Qui Peut Bénéficier de l'Autoconsommation Solaire Professionnelle Sans Apport ?
 
@@ -931,7 +931,7 @@ Après la mise en service, ENR-J Solaire propose des services de suivi et de mai
 
 L'**autoconsommation solaire professionnel sans apport** n'est plus un rêve lointain mais une opportunité concrète et accessible pour les entreprises et agriculteurs. En choisissant ENR-J Solaire, vous optez pour un partenaire expert qui maîtrise l'ensemble de la chaîne de valeur : de l'audit initial à la maintenance, en passant par l'ingénierie financière et la gestion administrative. Nous vous offrons un accompagnement de A à Z pour faire de votre transition énergétique une réussite économique et environnementale. Ne laissez plus les coûts énergétiques peser sur votre rentabilité.
 
-**[Demandez votre audit solaire gratuit →](https://www.enr-j.com/contact)**`,
+**[Demandez votre audit solaire gratuit →](https://enr-j.com/contact)**`,
     date: "2026-02-12",
     author: "ENR-J Solaire",
     category: "Finance",

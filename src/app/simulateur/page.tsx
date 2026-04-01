@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Testez votre éligibilité en 2 minutes. Votre bâtiment peut-il accueillir des panneaux solaires sans investissement ? Étude gratuite.",
   alternates: {
-    canonical: "https://www.enr-j.com/simulateur",
+    canonical: "https://enr-j.com/simulateur",
   },
   openGraph: {
     title: "Simulateur d'éligibilité solaire | ENR-J Solaire",

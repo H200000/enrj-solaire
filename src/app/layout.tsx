@@ -23,7 +23,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.enr-j.com"),
+  metadataBase: new URL("https://enr-j.com"),
   title: {
     default: "ENR-J Solaire | Panneaux Solaires Professionnels : 0€ d'Investissement",
     template: "%s | ENR-J Solaire",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "fr_FR",
     siteName: "ENR-J Solaire",
-    url: "https://www.enr-j.com",
+    url: "https://enr-j.com",
     images: [
       {
         url: "/images/logo-enrj.png",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     apple: "/favicon.png",
   },
   alternates: {
-    canonical: "https://www.enr-j.com",
+    canonical: "https://enr-j.com",
   },
 };
 

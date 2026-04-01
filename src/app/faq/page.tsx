@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description:
     "Retrouvez les réponses à toutes vos questions sur le tiers-investissement solaire, la Loi APER, le Décret Tertiaire, les aides, la maintenance et l'installation de panneaux photovoltaïques pour professionnels.",
   alternates: {
-    canonical: "https://www.enr-j.com/faq",
+    canonical: "https://enr-j.com/faq",
   },
   openGraph: {
     title: "FAQ solaire professionnel | ENR'J",

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description:
     "Guides solaire professionnel : Loi APER, Décret Tertiaire, tiers-investissement, tarifs EDF OA 2026. Conseils pour agriculteurs et industriels.",
   alternates: {
-    canonical: "https://www.enr-j.com/blog",
+    canonical: "https://enr-j.com/blog",
   },
   openGraph: {
     title: "Blog ENR-J Solaire",

@@ -16,13 +16,13 @@ export const metadata: Metadata = {
   description:
     "Centrale solaire professionnelle en tiers-investissement. Installation panneau solaire entreprise financée à 100%, maintenance incluse 30 ans. Loi APER, Décret Tertiaire. Devis gratuit.",
   alternates: {
-    canonical: "https://www.enr-j.com",
+    canonical: "https://enr-j.com",
   },
   openGraph: {
     title: "Centrale solaire professionnelle | Panneau solaire entreprise 0€",
     description:
       "Installation de centrale solaire professionnelle sans investissement. Panneau solaire entreprise, hangar agricole, toiture industrielle, ombrière parking.",
-    url: "https://www.enr-j.com",
+    url: "https://enr-j.com",
   },
 };
 

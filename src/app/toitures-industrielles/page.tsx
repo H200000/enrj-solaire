@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     "Réduisez vos charges de 30 à 50% avec le photovoltaïque. Conformité Décret Tertiaire (-40% en 2030). Tiers-investissement sans apport.",
   alternates: {
-    canonical: "https://www.enr-j.com/toitures-industrielles",
+    canonical: "https://enr-j.com/toitures-industrielles",
   },
   openGraph: {
     title: "Toiture Industrielle Solaire | ENR-J Solaire",

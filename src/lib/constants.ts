@@ -19,7 +19,7 @@ export const COMPANY = {
   dateCreation: "15/10/2019",
   effectif: "6 à 9 salariés",
   naf: "43.99C",
-  website: "https://www.enr-j.com",
+  website: "https://enr-j.com",
   logo: "/images/logo-enrj.png",
   tagline: "Votre toiture produit de l'énergie. Sans investir un euro.",
   description:

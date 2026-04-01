@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `Panneau Solaire ${city.name} (${city.department}) | Devis Gratuit 0€`,
     description: `Installateur panneau solaire à ${city.name} (${city.department}). Centrale solaire professionnelle en tiers-investissement : 0€ d'investissement. Hangars agricoles, toitures industrielles, ombrières parking. Devis gratuit.`,
     alternates: {
-      canonical: `https://www.enr-j.com/installateur-panneau-solaire/${ville}`,
+      canonical: `https://enr-j.com/installateur-panneau-solaire/${ville}`,
     },
     openGraph: {
       title: `Panneau Solaire ${city.name} | ENR-J Solaire`,
